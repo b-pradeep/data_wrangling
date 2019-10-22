@@ -2,7 +2,7 @@
 This repo was created to hold code folder for DATA 422 final project in University of Canterbury
 
 Project done by:
-### Pradeep 
+### Pradeep Birudala - 52817492
 ### Praveen Muthu Elango - 72435364
 ### Vijayalakshmi - 71389086
 ### Venkatachalam
