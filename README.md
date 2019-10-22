@@ -16,12 +16,15 @@ In place where api_key is used please your google developer Places API key for t
 
 https://developers.google.com/places/web-service/intro
 
-Leaflet :
+# Leaflet :
 The leaflet package was used to plot data to a world map 
+installation :
+### install.packages("leaflet")
+
 
 https://rstudio.github.io/leaflet/
 
-Shiny 
+# Shiny 
 The final delivary was done in a shiny application 
 
 https://pradeep-b.shinyapps.io/wrangling_project/
