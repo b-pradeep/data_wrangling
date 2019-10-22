@@ -1,10 +1,10 @@
 # DATA 422 Project 
-This repo was created to hold code folder for DATA 422 final project 
+This repo was created to hold code folder for DATA 422 final project in University of Canterbury
 
 Project done by:
 ### Pradeep 
 ### Praveen 
-### Vijayalakshmi 
+### Vijayalakshmi - 71389086
 ### Venkatachalam
 
 
