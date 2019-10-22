@@ -3,8 +3,8 @@ This repo was created to hold code folder for DATA 422 final project in Universi
 
 Project done by:
 ### Pradeep 
-### Praveen 
-### Vijayalakshmi Mani - 71389086
+### Praveen Muthu Elango - 72435364
+### Vijayalakshmi - 71389086
 ### Venkatachalam
 
 
