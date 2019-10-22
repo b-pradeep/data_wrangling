@@ -2,10 +2,10 @@
 This repo was created to hold code folder for DATA 422 final project 
 
 Project done by:
-Pradeep 
-Praveen 
-Vijayalakshmi 
-Venkatachalam
+### Pradeep 
+### Praveen 
+### Vijayalakshmi 
+### Venkatachalam
 
 
 Tools used :
