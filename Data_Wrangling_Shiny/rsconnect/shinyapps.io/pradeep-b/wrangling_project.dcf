@@ -1,0 +1,12 @@
+name: wrangling_project
+title: wrangling_project
+username:
+account: pradeep-b
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1340606
+bundleId: 2509755
+url: https://pradeep-b.shinyapps.io/wrangling_project/
+when: 1571346570.0433
+asMultiple: FALSE
+asStatic: FALSE
