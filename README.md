@@ -4,7 +4,7 @@ This repo was created to hold code folder for DATA 422 final project in Universi
 Project done by:
 ### Pradeep 
 ### Praveen 
-### Vijayalakshmi - 71389086
+### Vijayalakshmi Mani - 71389086
 ### Venkatachalam
 
 
